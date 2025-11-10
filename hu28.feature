@@ -1,4 +1,5 @@
 Feature:Acceso a información sobre la seguridad
+    
     Como usuario,
     Quiero tener acceso a información de seguridad extra,
     Para poder entender el riesgo al que me expongo y aprender a manejar esos momentos de peligro.
@@ -17,4 +18,3 @@ Feature:Acceso a información sobre la seguridad
     Dado que el usuario está en la Playa [Y] y necesita ayuda.
     Cuando el usuario accede al menú de seguridad y selecciona la opción de emergencia.
     Entonces el sistema muestra el número de teléfono de emergencia local y permite iniciar la llamada con un solo toque
-    
